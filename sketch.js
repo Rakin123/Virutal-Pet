@@ -4,7 +4,7 @@ var addFood;
 var foodObj;
 var fedTime;
 var time = 12;
-var pm;
+var pm = 0;
 
 //create feed and lastFed variable here
 var feed, lastFed;
